@@ -37,7 +37,7 @@ public class Televisor extends Electrodoméstico {
             precio+=precio*0.3;
         }
         if(tdt){
-            precio+=500;
+            precio+=800;
         }
     }
     
